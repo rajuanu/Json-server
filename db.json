@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 12,
+      "Firstname": " sfh",
+      "Lastname": "xxnb",
+      "Email": ",bvmn.",
+      "Mobile": "12365+5n ",
+      "Salary": ";''13."
+    },
+    {
+      "id": 13,
+      "Firstname": " sunil",
+      "Lastname": "kumar",
+      "Email": "suho@gmail.com",
+      "Mobile": "9874531455",
+      "Salary": "563231"
+    }
+   
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
